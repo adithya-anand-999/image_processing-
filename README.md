@@ -6,6 +6,6 @@ Clone the repository to your local machine and execute 'npm run dev' in your ter
 
 
 # upcoming features
-Allow users to input their own images easily from the frontend \n
-Allow users to download images after applying changes
-Add a toggle to allow image processing changes to compound, meaning multiple changes beyond pixel operations can be seen together 
+Allow users to input their own images easily from the frontend. 
+Allow users to download images after applying changes. 
+Add a toggle to allow image processing changes to compound, meaning multiple changes beyond pixel operations can be seen together.  
